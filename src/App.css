@@ -1,4 +1,9 @@
-.App {
+.App h1 {
+  text-align: center;
+  margin: 20px;
+  background-image: linear-gradient(to right, red, orange);
+}
+.App div{
   text-align: center;
   display: flex;
   flex-wrap: wrap;
